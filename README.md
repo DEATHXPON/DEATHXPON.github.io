@@ -11,6 +11,5 @@
         <AUDIO CONTROLS>
           <SOURCE SRC = "ASGORE.mp3">
         </AUDIO>
-          <IMG SRC = "L.jpg">
   </BODY>
   </HTML>
