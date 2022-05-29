@@ -8,7 +8,7 @@
       LOL
       <BR> <BR> <BR>
         <A HREF = "https://google.com"> GOOGLE </A>
-        <AUDIO CONTROLS AUTOPLAY LOOP>
+        <AUDIO CONTROLS>
           <SOURCE SRC = "ASGORE.mp3">
         </AUDIO>
           <IMG SRC = "L.jpg">
